@@ -1,6 +1,6 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <p class="text-3xl bg-red-100">hello tailwindcss</p>
   </div>
 </template>
 
